@@ -1,0 +1,39 @@
+.half1{
+    max-width: 45%;
+}
+.half2{
+  width: 50%;
+}
+.head{
+    font-size: 400%;
+    font-weight: bolder;
+    margin-top: 2%;
+}
+.content{
+    padding-top: 5%;
+}
+.buttons{
+    margin-top: 8%;
+}
+.btn-primary{
+    border-radius: 40px;
+    padding:10px 30px;
+}
+.btn-light{
+    margin-left: 4%;
+    color:  #0d6efd;
+    background-color:snow;
+}
+.btn-light:hover{
+    color:  #0d6efd;
+}
+.footer{
+    margin-top: 14%;
+}
+.footer img{
+    padding-right: 3%;
+}
+#int{
+    padding-right: 2%;
+
+}
